@@ -1,1 +1,21 @@
-"# html-css-javascript-projects"
+
+# HTML CSS and Javascrpt projects
+mini web projects using **HTML** **CSS** & **Javascrpt**
+
+
+
+[See all projects on CodePen](https://codepen.io/collection/gYoveg)
+## table
+
+| #       | Projects         | Live Demo  |
+| :-------------: |:-------------:| :-----:|
+| 01      | [Expanding Cards](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/01-Expanding%20Card)   | [Live Demo](https://codepen.io/Arnapurna/pen/qByBRQd) |
+| 02      |       |   Live Demo |
+| 03      |         |   Live Demo |
+
+___
+## This repository is mostly based on a course by Brad Traversy (2020):
+
+ - [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
+
+## The other projects are adapted from various YouTube channels:
