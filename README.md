@@ -10,7 +10,7 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 | :-: | :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: |
 | 01  |         [Expanding Cards](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/01-Expanding%20Card)          | [Live Demo](https://codepen.io/Arnapurna/full/qByBRQd) |
 | 02  |                                                   [02-Progress Steps] ()                                                    |                     [ Live Demo ]()                   |
-| 03  | [03-Moveable Face using keyboard ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/01-Expanding%20Card) | [Live Demo](https://codepen.io/Arnapurna/full/qByBRQd) |
+| 03  | [03-Moveable Face using keyboard ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/03-Moveable%20Face%20using%20keyboard) | [Live Demo](https://codepen.io/Arnapurna/full/abjvLjB) |
 
 ---
 
