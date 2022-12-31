@@ -6,11 +6,21 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 
 ## table
 
-|  #  |                                                          Projects                                                           |                       Live Demo                        |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: |
-| 01  |         [Expanding Cards](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/01-Expanding%20Card)          | [Live Demo](https://codepen.io/Arnapurna/full/qByBRQd) |
-| 02  |                                                   [02-Progress Steps] ()                                                    |                     [ Live Demo ]()                   |
-| 03  | [03-Moveable Face using keyboard ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/03-Moveable%20Face%20using%20keyboard) | [Live Demo](https://codepen.io/Arnapurna/full/abjvLjB) |
+|  #  |                                                                   Projects                                                                    |                        Live Demo                        |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
+| 01  |  [Expanding Cards](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/01-Expanding%20Card)                   | [Live Demo](https://codepen.io/Arnapurna/full/qByBRQd)  |
+| 02  |  [02-Progress Steps](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/02-Progress%20Steps)       | [ Live Demo ](https://codepen.io/Arnapurna/full/vYaKBQg) |
+| 03  | [03-Moveable Face using keyboard ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/03-Moveable%20Face%20using%20keyboard) | [Live Demo](https://codepen.io/Arnapurna/full/abjvLjB)  |
+| 04  | [04- ]() | [Live Demo]()  |
+| 05  | [05- ]() | [Live Demo]()  |
+| 06  | [06- ]() | [Live Demo]()  |
+| 07  | [07- ]() | [Live Demo]()  |
+| 08  | [08- ]() | [Live Demo]()  |
+| 09  | [09- ]() | [Live Demo]()  |
+| 10  | [10- ]() | [Live Demo]()  |
+| 11  | [11- ]() | [Live Demo]()  |
+| 12  | [12- ]() | [Live Demo]()  |
+| 13  | [13- ]() | [Live Demo]()  |
 
 ---
 
