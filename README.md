@@ -12,7 +12,7 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 | 02  |  [02-Progress Steps](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/02-Progress%20Steps)       | [ Live Demo ](https://codepen.io/Arnapurna/full/vYaKBQg) |
 | 03  | [03-Moveable Face using keyboard ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/03-Moveable%20Face%20using%20keyboard) | [Live Demo](https://codepen.io/Arnapurna/full/abjvLjB)  |
 | 04  | [04-Rotating Navigation]() | [Live Demo]()  |
-| 05  | [05-To Do List](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/05-To%20Do%20List) | [Live Demo](https://codepen.io/Arnapurna/pen/NWBjQda)  |
+| 05  | [05-To Do List](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/05-To%20Do%20List) | [Live Demo](https://codepen.io/Arnapurna/full/NWBjQda)  |
 | 06  | [06- ]() | [Live Demo]()  |
 | 07  | [07- ]() | [Live Demo]()  |
 | 08  | [08- ]() | [Live Demo]()  |
