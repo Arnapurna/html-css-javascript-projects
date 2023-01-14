@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
+
+    background: #333;
+    color: #222;
+}
+
+.container {
+    position: relative;
+    width: 100vw;
+    min-height: 100vh;
+    padding: 4rem;
+    background: #fafafa;
+    transform-origin: top left;
+    transition: transform .5s linear;
+}
+
+.container.show-nav {
+    transform: rotate(-10deg);
+}
+
+.circle-container {
+    position: fixed;
+    top: -100px;
+    left: -100px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background: #523857;
+    border-radius: 50%;
+    position: relative;
+    transition: transform .5s linear;
+
+}
+
+.circle button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 90px;
+    background: transparent;
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.circle button#open {
+    left: 60%;
+}
+
+.circle button#close {
+    top: 60%;
+    transform: rotate(90deg);
+    transform-origin: top left;
+}
+
+nav {
+    position: fixed;
+    bottom: 40px;
+    left: -150px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    color: #fff;
+    text-transform: uppercase;
+    margin: 1rem 0;
+    font-size: 1rem;
+    transform: translateX(-200%);
+}
+
+
+nav ul li i {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+
+.content img {
+    width: 100%;
+    margin: .5rem 0 1rem 0;
+}
+
+.content {
+    max-width: 1000px;
+    margin: 4rem auto;
+}
+
+.content h1 {
+    margin: 0;
+}
+
+.content small {
+    color: #555;
+    font-style: italic;
+}
+
+.content p {
+    line-height: 1.5;
+    color: #333;
+}
+
+.content h3 {
+    margin: .5rem 0;
+}
+
+.container.show-nav nav li {
+    transform: translateX(0%);
+    transition-delay: 1s;
+}
+
+.container.show-nav .circle {
+    transform: rotate(-80deg);
+}
