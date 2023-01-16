@@ -15,7 +15,7 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 | 05  | [05-To Do List](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/05-To%20Do%20List) | [Live Demo](https://codepen.io/Arnapurna/full/NWBjQda)  |
 | 06  | [06-Hidden Search Widget](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/06-Hidden%20Search%20Widget) | [Live Demo](https://codepen.io/Arnapurna/full/bGjrGoG)  |
 | 07  | [07-Blurry Loading](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/07-Blurry%20Loading) | [Live Demo](https://codepen.io/Arnapurna/full/dyjzWOp)  |
-| 08  | [08- ]() | [Live Demo]()  |
+| 08  | [08-Scroll Animation ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/08-Scroll%20Animation) | [Live Demo](https://codepen.io/Arnapurna/full/wvxqbYx)  |
 | 09  | [09- ]() | [Live Demo]()  |
 | 10  | [10- ]() | [Live Demo]()  |
 | 11  | [11- ]() | [Live Demo]()  |
