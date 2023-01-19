@@ -16,7 +16,7 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 | 06  | [06-Hidden Search Widget](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/06-Hidden%20Search%20Widget) | [Live Demo](https://codepen.io/Arnapurna/full/bGjrGoG)  |
 | 07  | [07-Blurry Loading](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/07-Blurry%20Loading) | [Live Demo](https://codepen.io/Arnapurna/full/dyjzWOp)  |
 | 08  | [08-Scroll Animation ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/08-Scroll%20Animation) | [Live Demo](https://codepen.io/Arnapurna/full/wvxqbYx)  |
-| 09  | [09- ]() | [Live Demo]()  |
+| 09  | [09-Split Landing Page](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/09-Split%20Landing%20Page) | [Live Demo](https://codepen.io/Arnapurna/full/MWBOZXm)  |
 | 10  | [10- ]() | [Live Demo]()  |
 | 11  | [11- ]() | [Live Demo]()  |
 | 12  | [12- ]() | [Live Demo]()  |
