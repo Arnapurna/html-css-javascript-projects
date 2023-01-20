@@ -17,10 +17,10 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 | 07  | [07-Blurry Loading](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/07-Blurry%20Loading) | [Live Demo](https://codepen.io/Arnapurna/full/dyjzWOp)  |
 | 08  | [08-Scroll Animation ](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/08-Scroll%20Animation) | [Live Demo](https://codepen.io/Arnapurna/full/wvxqbYx)  |
 | 09  | [09-Split Landing Page](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/09-Split%20Landing%20Page) | [Live Demo](https://codepen.io/Arnapurna/full/MWBOZXm)  |
-| 10  | [10- ]() | [Live Demo]()  |
-| 11  | [11- ]() | [Live Demo]()  |
-| 12  | [12- ]() | [Live Demo]()  |
-| 13  | [13- ]() | [Live Demo]()  |
+| 10  | [10-Form Wave Animation]() | [Live Demo](https://codepen.io/Arnapurna/full/qBypapo)  |
+| 11  | [11-Sound Board](https://github.com/Arnapurna/html-css-javascript-projects/tree/main/11-Sound%20Board) | [Live Demo](https://codepen.io/Arnapurna/full/poZprOE)  |
+<!-- | 12  | [12- ]() | [Live Demo]()  | -->
+<!-- | 13  | [13- ]() | [Live Demo]()  | -->
 
 ---
 
@@ -28,4 +28,4 @@ mini web projects using **HTML** **CSS** & **Javascrpt**
 
 - [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
 
-## The other projects are adapted from various YouTube channels:
+<!-- ## The other projects are adapted from various YouTube channels: -->
